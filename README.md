@@ -2,7 +2,6 @@
 
 This project is about predicting the likelihood of the patient's heart disease given his/her health statistics.
 
-
 ## Files
 * `heart_train.csv` - Training data
 * `heart_test.csv` - Testing data
@@ -10,3 +9,4 @@ This project is about predicting the likelihood of the patient's heart disease g
 * `heart_disease_submission.csv` - True submission file for the project
 * `HeartDisease.ipynb` - Code to train and test the data
 * `try.py` - Test Python file
+* `heart_disease_model.joblib` - Joblib file for the model

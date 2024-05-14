@@ -7,3 +7,5 @@ This project is about identifying traffic signs.
 * `traffic.py` - Testing file
 * `traffic_sign_model.keras` - Library for model
 * `traffic_sign_submission.csv` - Final submission results
+* `Meta.csv ` - Csv file containing the meta data
+* `Meta` - Folder containing images on the meta data
